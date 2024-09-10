@@ -1,2 +1,2 @@
 # Breast-Cancer-Classifier
-Pythong and machine learning project
+Made with Google Colab, the Python machine-learning breast cancer classifier uses a logistic regression algorithm. The program takes data from the breast cancer dataset, which contains information about tumor features and their classification as either benign or malignant. The dataset can be replaced with any similar dataset by the user. This program splits the data into training and testing sets, trains a logistic regression model on the training set, and evaluates its accuracy on both training and testing sets. The user can input data for a new tumor, and the system will predict whether the tumor is benign or malignant.
